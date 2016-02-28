@@ -34,8 +34,6 @@
         <mybatis-spring.version>1.2.2</mybatis-spring.version>
         <mybatis.version>3.2.8</mybatis.version>
         <mysql.connector.version>5.1.26</mysql.connector.version>
-        <junit.version>4.11</junit.version>
-        <testng.version>6.8.7</testng.version>
         <mokito.version>1.9.5</mokito.version>
         <jackson.version>1.9.13</jackson.version>
         <fastjson.version>1.2.6</fastjson.version>
