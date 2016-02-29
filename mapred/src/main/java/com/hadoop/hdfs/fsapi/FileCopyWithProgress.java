@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URI;
+import java.util.concurrent.CompletableFuture;
 
 /**
  * Created by yuanlang on 2/27/16.
@@ -34,6 +35,7 @@ public class FileCopyWithProgress {
             }
         });
         IOUtils.copyBytes(in, out, 4096, true);
-
     }
+
+
 }
